@@ -1,0 +1,10 @@
+export {default as Navbar} from './Navbar';
+export {default as Fead} from './Fead';
+export {default as ChannelDetail} from './ChannelDetail';
+export {default as SearchFead} from './SearchFead';
+export {default as VidioDetail} from './VidioDetail';
+export {default as  SearchBar} from './SearchBar';
+export {default as  Saidbar} from './Saidbar';
+export {default as  Videos} from './Videos';
+export {default as  VideoCard} from './VideoCard';
+export {default as  ChannelCard} from './ChannelCard';
